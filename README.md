@@ -1,5 +1,17 @@
+<h1 align="center">
+	<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+	Hi, Welcome to my profile!
+	<img src="https://emoji.discord.st/emojis/dc5dc637-3062-4bb8-a984-93823e531596.gif" width="30">
+</h1>
+<br/>
+
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+	<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%23BD561D&duration=6000&lines=I+am++into++Artificial+Intelligence;I+am++into++Data+Science;I+am++into++Machine+Learning+;I+am++into+Deep+Learning+;I+am++into++Big+Data;I+am++into++Computer+Vision!!&center=true&width=380&height=45"></a>
+</p>
+
 <img align="right" width="500" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
-<p align="center"> <h1 align="center"> Hi, I am Shahzaib Arain <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+<p align="center"> <h1 align="center">I am Shahzaib Arain <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
          width="45" /></h1> </p>
@@ -74,4 +86,12 @@
 
 ### Show some ❤️ by starring some of the repositories!
 
+<div align="center">
+	<a href="https://git.io/typing-svg">
+		<img alt="thanks for your visit" src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=24&center=true&vCenter=true&width=300&lines=Thanks+for+your+visit!" ></a>
 </div>
+
+<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=7E3ACE&style=flat&logo" alt="back to top" /></a></p>
+<div align="center" ><img alt="" width="100%" src="https://github.com/thenomaniqbal/thenomaniqbal/blob/master/icon/footer.png"></div>
+
+	
