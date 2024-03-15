@@ -62,3 +62,10 @@ __/\\\________/\\\__/\\\\\\\\\\\\\\\__/\\\______________/\\\___________________/
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MrZeib&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+## Visitor Count
+![Visitor Count](https://profile-counter.glitch.me/MrZeib/count.svg)
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=016EEA&width=800&lines=This+page+is+best+viewed+in+dark+mode.;Hope+you+enjoy!;Now+we+both+probably+need+to+get+back+to+coding" />
+</p>
