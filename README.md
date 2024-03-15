@@ -1,5 +1,5 @@
 <img align="right" width="500" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
-<p align="center"> <h1 align="center"> Hi, I am Shahzaib ARain <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+<p align="center"> <h1 align="center"> Hi, I am Shahzaib Arain <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
          width="45" /></h1> </p>
@@ -52,6 +52,19 @@
 
 ## Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/MrZeib/count.svg)
+
+<h2 align="center">Contribution Graph 📊</h2>
+
+[![MrZeib's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MrZeib&theme=chartreuse-dark)](https://github.com/haldaranup/github-readme-activity-graph)
+
+ <h2 align="center">Tools & Technologies ⚡</h2>
+ <p align="center">
+  <a href="https://anuphaldar.com">
+    <img src="https://skillicons.dev/icons?i=js,html,css,sass,react,redux,vue,nodejs,express,mongodb,typescript,git" />
+  </a>
+</p>
+
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=016EEA&width=800&lines=This+page+is+best+viewed+in+dark+mode.;Hope+you+enjoy!;Now+we+both+probably+need+to+get+back+to+coding" />
